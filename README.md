@@ -6,8 +6,8 @@ It is a simple TODO application using NodeJS and MongDB. where a user of this ap
 
 ### Screenshot
 
-![](images/image1.png)
-![](images/Screenshot.png)
+![](image1.png)
+![](image2.png)
 
 ## My process
 
